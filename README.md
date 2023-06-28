@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kovidbajaj
-- 👀 I’m interested in ...
+- 👀 I’m interested in controllables
 - 🌱 I’m currently learning JAVA AND FULL STACK
 
 <!---
